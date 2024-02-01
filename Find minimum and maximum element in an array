@@ -9,3 +9,4 @@ pair<long long, long long> getMinMax(long long a[], int n) {
     return p;
 }
 ,/this is new file
+gthghj
